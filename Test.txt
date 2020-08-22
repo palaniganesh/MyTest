@@ -2,4 +2,4 @@ This is the initial test file
 HELLO WORLD!!!
 I'm editing Hello world in master - this is nice
 HELLO WORLD - WORKAREA1
-
+I'm master and I got added with feature 1
