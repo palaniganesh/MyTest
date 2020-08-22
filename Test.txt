@@ -5,3 +5,4 @@ HELLO WORLD - WORKAREA1
 I'm master and I got added with feature 1
 Here is the bug fix - Just only one
 ---Adding feature 2
+Here is the bug fix 2 - 2 fixes got added
